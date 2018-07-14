@@ -3,12 +3,14 @@ An Applescript for Mac OSX "Powerpoint for Mac" to change an existing powerpoint
 
 
 
-# Author: Maik Nogens, 2018
-# Inspired from : https://gist.github.com/low-decarie/4440405
+Author: Maik Nogens, 2018
+Inspired from : https://gist.github.com/low-decarie/4440405
 
-# Works on Powerpoint for Mac v16.15
-# Works on PPTX extension
-# Does NOT work on POTM extension
++ Works on Powerpoint for Mac v16.15
++ Works on PPTX extension
+
+- Does NOT work on POTM extension
+
 
 tell application "Microsoft PowerPoint"
 	activate
