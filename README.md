@@ -11,7 +11,7 @@ Inspired from : https://gist.github.com/low-decarie/4440405
 
 - Does NOT work on POTM extension
 
-
+```
 tell application "Microsoft PowerPoint"
 	activate
 	
@@ -59,3 +59,4 @@ tell application "Microsoft PowerPoint"
 		
 	end repeat
 end tell
+```
