@@ -1,7 +1,17 @@
 # HOW TO USE APPLESCRIPT EDITOR
-todo
+Here is a good introduction article : https://www.macworld.co.uk/feature/mac-software/how-to-applescript-tutorial-3623522/
 
-# AppleScript_Powerpoint_Change_Language_on_slides
+# Purpose
+Sometimes the base language of a slide deck is differnt than the actual texts and elements (textboxes, etc.).
+I wanted a way to switch *all* elements at once.
+
+# Hint
+This is from a German Powerpoint installation to change the language to "Englisch (USA)" as it is shown in the Powerpoint language selection list under the "tools / extras" (depending on your translation) menu.
+
+I counted the position of the language I wanted in the shown list, since I could not get the "select row X .." to work.
+*shrug
+
+# AppleScript Powerpoint Change Language on slides
 An Applescript for Mac OSX "Powerpoint for Mac" to change an existing powerpoint deck to a different language
 
 
